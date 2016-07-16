@@ -9,3 +9,7 @@ Recursion!
 - reverse string
 - fibonacci
 - Permutations of a string
+
+- factorial
+- sumDigits
+- repeat words in string
